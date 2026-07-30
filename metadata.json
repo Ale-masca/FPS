@@ -1,0 +1,6 @@
+{
+  "name": "Zona Urbana FPS 3D",
+  "description": "Jogo FPS 3D urbano com movimentação livre WASD, arma AK-47 em primeira pessoa e exploração em cidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
