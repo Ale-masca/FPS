@@ -1,0 +1,6 @@
+{
+  "name": "Zona Urbana FPS 3D",
+  "description": "Jogo FPS 3D em floresta tática inspirada no Arma Reforger, com árvores gigantes, mato, rochas, acampamento militar e alto desempenho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
